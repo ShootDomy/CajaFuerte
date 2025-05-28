@@ -1,0 +1,14 @@
+{
+  "name": "my-nodejs-project",
+  "version": "1.0.0",
+  "description": "A project that processes input and implements a solution function for generating PIN combinations.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
